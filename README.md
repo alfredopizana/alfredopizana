@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfredopizana
 - 👀 I’m interested in .NET, MERN and Automation
 - 🌱 I’m currently learning DevOps and MERN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Projects with a Social Impact
 - 📫 How to reach me [lnkin](https://www.linkedin.com/in/alfredopizana)
 
 <!---
